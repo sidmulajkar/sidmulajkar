@@ -1,7 +1,5 @@
 ### Hi, Siddhant Mulajkar here 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as Freelancer
 - 🌱 I’m currently learning IOS 14 & Swift UI
 - 👯 I’m looking to collaborate on Skype for Trading Setups
@@ -9,4 +7,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Email: tss9.creators@gmail.com](tss9.creators@gmail.com)
 - 😄 Pronouns: he/his/him
 
-<img src="https://github-readme-stats.vercel.app/api?username=sidmulajkar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=sidmulajkar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
