@@ -1,6 +1,7 @@
 ### Hi, Siddhant Mulajkar here 👋
 
 - 🔭 I’m currently working as Freelancer
+- 🔖 Read my blogs @ [Personal Site](https://sidmulajkar.com/posts/)
 - 🌱 I’m currently learning IOS 14 & Swift UI
 - 👯 I’m looking to collaborate on Skype for Trading Setups
 - 💬 Ask me about basic tech related advice.
