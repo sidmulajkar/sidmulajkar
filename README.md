@@ -86,4 +86,4 @@ A series of podcasts and blogs to restore your data privacy, one step towards im
 | <a href="http://www.github.com/sidmulajkar"><img src="https://github-readme-stats.vercel.app/api?username=sidmulajkar&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=daf7dc&icon_color=18acb6&bg_color=191919&hide_border=true&show_icons=true" alt="sidmulajkar's GitHub stats" /></a> | <a href="https://github.com/sidmulajkar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidmulajkar&langs_count=5&title_color=ffffff&text_color=0891b2&icon_color=10b981&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> |
 | ------------- | ------------- | -->
 
-PGP fingerprint: 80D47B2E617737451230B3C325FC0D67792CDD5E
+PGP fingerprint: A74FCBC03330811F76E7A45424B58DCCC204D8AE
