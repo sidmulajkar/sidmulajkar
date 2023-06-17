@@ -8,9 +8,9 @@ Engineer /Educator
 
 I am a CS engineer passionate about building and advocating systems that respect privacy and security at the forefront.
 
-*   🌍  I'm based in Mumbai, IN
+*   🌍  I'm based in India
 *   ✉️  You can contact me at [hi@sidmulajkar.com](mailto:hi@sidmulajkar.com)
-*   🚀  I'm currently working on [Privacy Guides Series](http://sidmulajkar.com/privacyguide/)
+*   🚀  I'm currently working on [Privacy Guides Series](https://sidmulajkar.com/privacyguide/)
 *   🧠  I'm learning Cyber Security and Core CS Concepts
 *   🔖 Read my blogs @ [Website](https://sidmulajkar.com/posts/)
 
@@ -55,15 +55,15 @@ I am a CS engineer passionate about building and advocating systems that respect
 
 ### 🛡️ [Privacy Reference Resources](https://sidmulajkar.com/references/)
 
-A series of podcasts and blogs to restore your data privacy, one step towards improving the privacy.
+A series of curated resources to restore your data privacy with some basic tools and mindset.
 
 ---
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to harden debian server for security](https://sidmulajkar.com/posts/how-harden-linux-server/)
+- [How to harden Debian server for security](https://sidmulajkar.com/posts/how-harden-linux-server/)
 
-- [How to create a tor based website?](https://sidmulajkar.com/posts/darkweb-tor-website/)💀
+- [How to create a tor-based website?](https://sidmulajkar.com/posts/darkweb-tor-website/)💀
 
 - [How to Handle the Double booking problem in an app or website just using the database?](https://sidmulajkar.com/posts/how-to-handle-double-booking-problem-using-db/)
 
