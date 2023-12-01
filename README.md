@@ -87,7 +87,7 @@ A series of curated resources to restore your data privacy with some basic tools
 | ------------- | ------------- | -->
 
 
-![PGP Key](https://sidmulajkar.com/gpg/sidmulajkar.asc) - ![How to verify the pgp key](https://sidmulajkar.com/how-to-verify-pgp-signature/)
+[PGP Key](https://sidmulajkar.com/gpg/sidmulajkar.asc) - [How to verify the pgp key](https://sidmulajkar.com/how-to-verify-pgp-signature/)
 
 ```
 PGP fingerprint: A74FCBC03330811F76E7A45424B58DCCC204D8AE
