@@ -61,6 +61,8 @@ A series of curated resources to restore your data privacy with some basic tools
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Personal thoughts on Mail Privacy 📨 🔑](https://sidmulajkar.com/posts/my-thoughts-on-mail-regarding-privacy/)
+
 - [How to harden Debian server for security](https://sidmulajkar.com/posts/how-harden-linux-server/)
 
 - [How to create a tor-based website?](https://sidmulajkar.com/posts/darkweb-tor-website/)💀
@@ -71,7 +73,7 @@ A series of curated resources to restore your data privacy with some basic tools
 
 - [When Indexes are not useable sometimes!](https://sidmulajkar.com/posts/when-indexes-are-not-useable/)
 
-- [What actually is Database Sharding?](https://sidmulajkar.com/posts/what-is-database-sharding/)
+- [What is Database Sharding?](https://sidmulajkar.com/posts/what-is-database-sharding/)
 
 - [TCP and UDP - Simple yet Confusing🤔](https://sidmulajkar.com/posts/tcp-and-udp/)
 
