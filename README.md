@@ -6,13 +6,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Engineer /Educator
 ------------------------------------
 
-I am a CS engineer passionate about building and advocating systems that respect privacy and security at the forefront.
+DevOps Engineer with a background in security, infrastructure automation and site reliability engineering. Passionate about building resilient, scalable, and secure systems.
 
-*   🌍  I'm based in India
 *   ✉️  You can contact me at [hi@sidmulajkar.com](mailto:hi@sidmulajkar.com)
 *   🚀  I'm currently working on [Privacy Guides Series](https://sidmulajkar.com/privacyguide/)
-*   🧠  I'm learning Cyber Security and Core CS Concepts
+*   🧠  Currently learning DevSecOps, Security and Core CS Concepts
 *   🔖 Read my blogs @ [Website](https://sidmulajkar.com/posts/)
+
 
 ---
 
