@@ -6,12 +6,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Engineer /Educator
 ------------------------------------
 
-DevOps Engineer with a background in security, infrastructure automation and site reliability engineering. Passionate about building resilient, scalable, and secure systems.
+DevOps Engineer with proficiency in Security, Infrastructure Automation, and Site Reliability Engineering. Passionate about building resilient, scalable, and secure systems.
 
-*   ✉️  You can contact me at [hi@sidmulajkar.com](mailto:hi@sidmulajkar.com)
+*   ✉️  Reach me at: [hi@sidmulajkar.com](mailto:hi@sidmulajkar.com)
 *   🚀  I'm currently working on [Privacy Guides Series](https://sidmulajkar.com/privacyguide/)
-*   🧠  Currently learning DevSecOps, Security and Core CS Concepts
-*   🔖 Read my blogs @ [Website](https://sidmulajkar.com/posts/)
+*   🧠  Currently exploring DevSecOps, Security, Privacy and Core CS Concepts
+*   🔖  Read my blogs @ [Website](https://sidmulajkar.com/posts/)
 
 
 ---
