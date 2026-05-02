@@ -3,39 +3,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Siddhant Mulajkar
 =========================================================================================================================================
 
-Engineer /Educator
-------------------------------------
-
-DevOps Engineer with proficiency in Security, Infrastructure Automation, and Site Reliability Engineering. Passionate about building resilient, scalable, and secure systems.
-
-*   ✉️  Reach me at: [hi@sidmulajkar.com](mailto:hi@sidmulajkar.com)
-*   🚀  I'm currently working on [Privacy Guides Series](https://sidmulajkar.com/privacyguide/)
-*   🧠  Currently exploring DevSecOps, Security, Privacy and Core CS Concepts
-*   🔖  Read my blogs @ [Website](https://sidmulajkar.com/posts/)
-
-
+Devops Engineer @Quidich Innovation Labs | Engineer /Educator
 ---
 
-### Skills
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-</p>
-
-
-<!-- This is to enable profile views -->
-<!-- <img src="https://komarev.com/ghpvc/?username=sidmulajkar&label=Profile%20views&color=0e75b6&style=flat" alt="sidmulajkar" /> -->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=sidmulajkar&&show_icons=true&title_color=ffffff&icon_color=18acb6&text_color=daf7dc&bg_color=191919">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidmulajkar&langs_count=10)](https://github.com/sidmulajkar/github-readme-stats)
-
- -->
 
  #### Connect with me
 
@@ -52,6 +22,44 @@ DevOps Engineer with proficiency in Security, Infrastructure Automation, and Sit
 </a>
 
 ---
+
+
+
+
+DevOps Engineer with proficiency in Security, Infrastructure Automation, and Site Reliability Engineering. Passionate about building resilient, scalable, and secure systems.
+
+*   ✉️  Reach me at: [hi@sidmulajkar.com](mailto:hi@sidmulajkar.com)
+*   🚀  I'm currently working on [Privacy Guides Series](https://sidmulajkar.com/privacyguide/)
+*   🧠  Currently working and exploring DevSecOps, Security, Privacy and Core CS Concepts
+*   🔖  Read my blogs @ [Website](https://sidmulajkar.com/posts/)
+
+
+---
+<!--
+
+### Skills
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+</p>
+-->
+
+<!-- This is to enable profile views -->
+<!-- <img src="https://komarev.com/ghpvc/?username=sidmulajkar&label=Profile%20views&color=0e75b6&style=flat" alt="sidmulajkar" /> -->
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=sidmulajkar&&show_icons=true&title_color=ffffff&icon_color=18acb6&text_color=daf7dc&bg_color=191919">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidmulajkar&langs_count=10)](https://github.com/sidmulajkar/github-readme-stats)
+
+ -->
+
+
+
 
 ### 🛡️ [Privacy Reference Resources](https://sidmulajkar.com/references/)
 
